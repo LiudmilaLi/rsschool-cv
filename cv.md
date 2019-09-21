@@ -7,3 +7,11 @@ My goal is to learn front-end development and to connect my further professional
 #### **Programming languages:** HTML, CSS
 #### **Tools:** Git, VS Code
 #### **Other skills:** photo, AutoCad, Photoshop, Adobe Illustrator
+
+#### **Experience**: [https://www.codecademy.com/users/LiudmilaLi/achievements] (https://www.codecademy.com/users/LiudmilaLi/achievements)
+ 
+#### **English level**: pre-intermediate (A2) 
+ 
+##**Education** 
+···**Belarusian State University of Informatics and Radioeleсtronics, Minsk, Belarus**] (https://www.bsuir.by/en/faculties-chairs)···
+···Master of Engineering –  Computer-aided design
