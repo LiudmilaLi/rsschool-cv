@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+#container {
+    max-width: 1024px;
+    margin: auto;
+  }
+
+h2 {
+    padding-top: 20px;
+    text-align: center;
+    color: blue; 
+  }
+
+#cont1 h2 {
+    color: black;
+    padding-top: 20px;
+    text-align: left;   
+  }
+
+.image {
+    max-height: 300px;
+    margin: 0, 0;
+    float: right; 
+    padding-left: 5%; 
+  }
+
+ li {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 16px;
+  }
+   
+
+  h3 {
+    font-family: "Source Sans Pro", sans-serif;
+  }
+
+  #link {
+    text-indent: 0;
+    color: blue;
+  }
+   
+  #cont1 {
+    Width: 1024;
+  }
+
+  p {
+    font-family: "Source Sans Pro", sans-serif;
+    text-indent: 20px;
+    font-size: 18px;
+  }
+
+  p.contact {
+    text-indent: 20px;
+  }
+  
+  p.skills {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 0;
+    font-size: 16px;
+  }
+
+  .education {
+    font-family: "Source Sans Pro", sans-serif;
+    text-indent: 0;
+  }
+  
+   
+  
+   
+    
+      
